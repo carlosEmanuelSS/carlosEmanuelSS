@@ -1,77 +1,85 @@
 <div align="center">
-
-# Carlos Emanuel
-
-### ADS @ CEUB · Desenvolvimento de Software
-
-**Web Development · Mobile · Software Development**
-
-Transformando estudo em **projetos reais**, do código ao deploy.
-
+  <img src="./assets/banner.svg" alt="Carlos Emanuel" width="100%" />
 </div>
 
----
+<br/>
 
-## 👨‍💻 Sobre mim
+<table>
+<tr>
+<td width="55%" valign="top">
 
-Estudante de **Análise e Desenvolvimento de Sistemas no CEUB**, construindo experiência através de projetos acadêmicos e pessoais.
+### Sobre
 
-Atualmente focado em **desenvolvimento Web, Mobile, algoritmos e estruturas de dados**.
+Construindo minha base em desenvolvimento de software através de estudo constante e prática real — do primeiro `git init` ao deploy.
 
-`📍 Brasília - DF` · `🎓 ADS @ CEUB` · `🚀 Do código ao deploy`
+**Foco atual:** Web · Mobile · Estruturas de dados
 
----
+📍 Brasília, DF &nbsp;·&nbsp; 🎓 ADS @ CEUB
 
-## ⚙️ Stack
+</td>
+<td width="45%" valign="top">
+
+### Stack
+
+**Languages**
+![TypeScript](https://img.shields.io/badge/-TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/-Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
+
+**Web**
+![React](https://img.shields.io/badge/-React-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/-Vite-0d1117?style=flat-square&logo=vite&logoColor=B73BFE)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
+
+**Tools**
+![Git](https://img.shields.io/badge/-Git-0d1117?style=flat-square&logo=git&logoColor=F05032)
+![VSCode](https://img.shields.io/badge/-VS%20Code-0d1117?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,python,html,css,react,tailwind,vite,git,github,vscode&perline=11" />
+### Activity Dashboard
+
+<img src="./assets/activity.svg" alt="Contribution activity" width="100%" />
 
 </div>
 
----
+<br/>
 
-## 🚀 Projetos
+<table>
+<tr>
+<td width="50%" valign="top" align="center">
 
-### SGS-ASP
+**Languages**
 
-Sistema de gestão desenvolvido para a **Ação Social do Planalto**, centralizando informações de educandos, oficinas, frequência e atendimentos.
+<img src="./assets/languages.svg" alt="Top languages" width="100%" />
 
-`React` · `TypeScript` · `Tailwind CSS` · `Vite`
+</td>
+<td width="50%" valign="top">
 
-[**Ver código →**](https://github.com/carlosEmanuelSS/SGS-ASP) · [**Live Demo →**](https://sgs-asp.vercel.app)
+**Currently Learning**
 
-### Site Ferrari
+- Estruturas de dados & algoritmos
+- Padrões de arquitetura para APIs
+- Testes automatizados
 
-Projeto front-end desenvolvido para prática de interfaces web.
+**Learning → Building → Improving**
+Cada semana, um pouco mais próximo de código pronto pra produção.
 
-`HTML` · `CSS`
+</td>
+</tr>
+</table>
 
-[**Ver código →**](https://github.com/carlosEmanuelSS/Site-Ferrari)
-
----
-
-## 📊 GitHub
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=carlosEmanuelSS&theme=github-compact&hide_border=true&area=true" width="95%" />
-
-</div>
-
----
-
-## 📚 Atualmente estudando
-
-`Algoritmos & Estruturas de Dados` · `Desenvolvimento Web` · `Desenvolvimento Mobile`
-
----
+<br/>
 
 <div align="center">
 
-### Construindo. Testando. Evoluindo.
-
-<sub>Estudante de ADS construindo experiência um projeto de cada vez.</sub>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/SEU-LINKEDIN)
+[![Email](https://img.shields.io/badge/-Email-0d1117?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:seu-email@exemplo.com)
 
 </div>
