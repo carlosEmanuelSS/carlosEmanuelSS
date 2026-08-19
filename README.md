@@ -1,4 +1,4 @@
-````md
+
 <div align="center">
 
 # Carlos Emanuel
@@ -87,4 +87,4 @@ Interface web desenvolvida para prática de desenvolvimento front-end.
 <sub>Estudante de ADS construindo experiência um projeto de cada vez.</sub>
 
 </div>
-```
+
