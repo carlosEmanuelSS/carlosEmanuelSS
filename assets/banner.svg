@@ -1,0 +1,32 @@
+<svg width="900" height="170" viewBox="0 0 900 170" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#22d3ee"/>
+      <stop offset="100%" stop-color="#a78bfa"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="170" rx="14" fill="url(#bg)" stroke="#21262d" stroke-width="1"/>
+
+  <rect x="0" y="0" width="6" height="170" rx="3" fill="url(#accent)"/>
+
+  <text x="48" y="70" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="34" font-weight="700" fill="#f0f6fc">
+    Carlos Emanuel
+  </text>
+
+  <text x="48" y="100" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#8b949e" letter-spacing="0.5">
+    Estudante de Análise e Desenvolvimento de Sistemas
+  </text>
+
+  <text x="48" y="128" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13.5" fill="#58a6ff">
+    Building → Learning → Shipping
+  </text>
+
+  <circle cx="850" cy="50" r="3" fill="#22d3ee"/>
+  <circle cx="850" cy="85" r="3" fill="#a78bfa"/>
+  <circle cx="820" cy="67" r="3" fill="#58a6ff"/>
+</svg>
