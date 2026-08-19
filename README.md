@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # Carlos Emanuel
@@ -9,22 +8,21 @@
 
 Transformando estudo em **projetos reais**, do código ao deploy.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](SEU_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:SEU_EMAIL)
-
 </div>
 
 ---
 
-## `$ whoami`
+## 👨‍💻 Sobre mim
 
-Estudante de **Análise e Desenvolvimento de Sistemas no CEUB**, construindo minha base em desenvolvimento através de projetos acadêmicos e pessoais.
+Estudante de **Análise e Desenvolvimento de Sistemas no CEUB**, construindo experiência através de projetos acadêmicos e pessoais.
 
-`📍 Brasília, DF` · `🎓 ADS` · `💻 Web & Mobile`
+Atualmente focado em **desenvolvimento Web, Mobile, algoritmos e estruturas de dados**.
+
+`📍 Brasília - DF` · `🎓 ADS @ CEUB` · `🚀 Do código ao deploy`
 
 ---
 
-## `> stack`
+## ⚙️ Stack
 
 <div align="center">
 
@@ -34,51 +32,41 @@ Estudante de **Análise e Desenvolvimento de Sistemas no CEUB**, construindo min
 
 ---
 
-## `> building`
+## 🚀 Projetos
 
-### 🚀 SGS-ASP
-**Sistema de Gestão Social para a Ação Social do Planalto.**
+### SGS-ASP
 
-Centraliza educandos, oficinas, frequência, atendimentos e indicadores em uma única plataforma.
+Sistema de gestão desenvolvido para a **Ação Social do Planalto**, centralizando informações de educandos, oficinas, frequência e atendimentos.
 
-`React` · `TypeScript` · `Tailwind` · `Vite`
+`React` · `TypeScript` · `Tailwind CSS` · `Vite`
 
-[**↗ Código**](https://github.com/carlosEmanuelSS/SGS-ASP) · [**↗ Live Demo**](https://sgs-asp.vercel.app)
+[**Ver código →**](https://github.com/carlosEmanuelSS/SGS-ASP) · [**Live Demo →**](https://sgs-asp.vercel.app)
 
-### 🏎️ Site Ferrari
-Interface web desenvolvida para prática de desenvolvimento front-end.
+### Site Ferrari
+
+Projeto front-end desenvolvido para prática de interfaces web.
 
 `HTML` · `CSS`
 
-[**↗ Código**](https://github.com/carlosEmanuelSS/Site-Ferrari)
+[**Ver código →**](https://github.com/carlosEmanuelSS/Site-Ferrari)
 
 ---
 
-## `> github.activity`
+## 📊 GitHub
 
 <div align="center">
 
-<img height="165" src="./profile/stats.svg" />
-<img height="165" src="./profile/languages.svg" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=carlosEmanuelSS&theme=github-compact&hide_border=true&area=true" width="95%" />
 
-</div>
-
-<br>
-
-<div align="center">
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=carlosEmanuelSS&theme=github-compact&hide_border=true&area=true" />
 </div>
 
 ---
 
-## `> currently_learning`
+## 📚 Atualmente estudando
 
-```text
-01  Algoritmos & Estruturas de Dados
-02  Desenvolvimento Web
-03  Desenvolvimento Mobile
-04  Engenharia de Software
-````
+`Algoritmos & Estruturas de Dados` · `Desenvolvimento Web` · `Desenvolvimento Mobile`
+
+---
 
 <div align="center">
 
@@ -87,4 +75,3 @@ Interface web desenvolvida para prática de desenvolvimento front-end.
 <sub>Estudante de ADS construindo experiência um projeto de cada vez.</sub>
 
 </div>
-
