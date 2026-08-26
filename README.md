@@ -1,40 +1,9 @@
-<h1 align="center">Olá, eu sou o Carlos Emanuel 👋</h1>
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=wave&height=90&section=header&reversal=false&fontSize=69&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
 
-<p align="center">
-  Estudante de Análise e Desenvolvimento de Sistemas
-</p>
+###
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/carlosemanuel7">
-    <img src="https://img.shields.io/badge/LinkedIn-111111?style=flat&logo=linkedin&logoColor=white">
-  </a>
-</p>
+<h2 data-importer="text" align="left">Hey, I'm Carlos Emanuel! 👋</h2>
 
-<br>
-
-## Sobre
-
-Estudante de **Análise e Desenvolvimento de Sistemas**, interessado em desenvolvimento de software e resolução de problemas através da programação.
-
-Atualmente estou aprofundando meus conhecimentos em **Python, algoritmos, desenvolvimento web e mobile**, aplicando o aprendizado em projetos práticos.
-
-<br>
-
-## Tecnologias
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,mysql,git,github&theme=dark" />
-</p>
-
-<br>
-
-## Atualmente estudando
-
-`Python` &nbsp;&nbsp; `Algoritmos e Estruturas de Dados` &nbsp;&nbsp; `Desenvolvimento Web` &nbsp;&nbsp; `Desenvolvimento Mobile`
-
-<br>
-
-## Contato
-
-<a href="https://www.linkedin.com/in/carlosemanuel7">LinkedIn</a>
-
+###
