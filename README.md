@@ -1,4 +1,3 @@
-markdown
 <h1 align="center">👋 Olá, eu sou o Carlos Emanuel!</h1>
 
 <p align="center">
