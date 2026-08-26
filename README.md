@@ -1,68 +1,126 @@
-<h1 data-importer="text" align="center">Hey, I'm Carlos Emanuel!👋</h1>
+<h1 align="center">Hey, I'm Carlos Emanuel! 👋</h1>
 
-###
-
-<div data-importer="socials" align="center">
-  <a href="www.linkedin.com/in/carlosemanuel7" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+<div align="center">
+  <a href="https://www.linkedin.com/in/carlosemanuel7" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
-  <a href="mailto:emanuelsan026@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+
+  <a href="mailto:emanuelsan026@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
   </a>
 </div>
 
 ###
 
-<h3 data-importer="text" align="left">Software Development | Backend | Python</h3>
+<h3 align="left">Software Development | Backend | Python</h3>
 
 ###
 
-<p data-importer="text" align="left">📍 Brasília, Distrito Federal, Brasil<br>💻 Foco em Desenvolvimento de Software<br>🐍 Atualmente aprofundando conhecimentos em Python e Algoritmos<br>🎯 Buscando minha primeira oportunidade profissional em Tecnologia</p>
+<p align="left">
+📍 Brasília, Distrito Federal, Brasil<br>
+💻 Foco em Desenvolvimento de Software<br>
+🐍 Atualmente aprofundando conhecimentos em Python e Algoritmos<br>
+🎯 Buscando minha primeira oportunidade profissional em Tecnologia
+</p>
 
 ###
 
-<p data-importer="text" align="left">Profissional em formação em Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento Backend, Python e bancos de dados SQL.<br><br>Conhecimentos em lógica de programação, desenvolvimento de APIs REST, modelagem e manipulação de dados, Git/GitHub e integração de aplicações com Inteligência Artificial. Perfil analítico, organizado e orientado à resolução de problemas, com experiência profissional em ambiente corporativo e atendimento a diferentes demandas.<br><br>Desenvolvimento de projetos práticos voltados à aplicação de conceitos de Backend, automação e IA, com foco na construção de soluções funcionais, bem estruturadas e alinhadas a problemas reais.</p>
+<p align="left">
+Profissional em formação em Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento Backend, Python e bancos de dados SQL.
+<br><br>
+Conhecimentos em lógica de programação, desenvolvimento de APIs REST, modelagem e manipulação de dados, Git/GitHub e integração de aplicações com Inteligência Artificial. Perfil analítico, organizado e orientado à resolução de problemas, com experiência profissional em ambiente corporativo e atendimento a diferentes demandas.
+<br><br>
+Desenvolvimento de projetos práticos voltados à aplicação de conceitos de Backend, automação e IA, com foco na construção de soluções funcionais, bem estruturadas e alinhadas a problemas reais.
+</p>
 
 ###
 
-<h3 data-importer="text" align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Languages and Tools</h3>
 
 ###
 
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+<div align="left">
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="FastAPI" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="Flask" />
+
 </div>
 
 ###
 
-<h3 data-importer="text" align="left">GitHub Analytics</h3>
+<h3 align="left">📊 GitHub Analytics</h3>
 
 ###
 
-<div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouzas&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+<div align="center">
+
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=carlosEmanuelSS&show_icons=true&theme=dark&hide_border=true"
+    height="150"
+    alt="GitHub stats"
+  />
+
+  <img width="10" />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosEmanuelSS&layout=compact&theme=dark&hide_border=true"
+    height="150"
+    alt="Top languages"
+  />
+
 </div>
 
 ###
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouzas/maurodesouzas/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouzas/maurodesouzas/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouzas/maurodesouzas/pacman-output/pacman-contribution-graph.svg?game=pacman">
+<div align="center">
+
+  <img
+    src="https://streak-stats.demolab.com?user=carlosEmanuelSS&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5"
+    height="180"
+    alt="GitHub streak"
+  />
+
+</div>
+
+###
+
+<h3 align="left">🎮 Contribution Activity</h3>
+
+###
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/carlosEmanuelSS/carlosEmanuelSS/output/pacman-contribution-graph-dark.svg"
+  >
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/carlosEmanuelSS/carlosEmanuelSS/output/pacman-contribution-graph.svg"
+  >
+
+  <img
+    alt="Pac-Man contribution graph"
+    src="https://raw.githubusercontent.com/carlosEmanuelSS/carlosEmanuelSS/output/pacman-contribution-graph.svg"
+  >
 </picture>
-
-###
